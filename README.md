@@ -41,6 +41,22 @@ No se requiere de herramientas de construcción complicadas. Para ver el proyect
    ```
 2. Abre el archivo `index.html` en tu navegador preferido.
 
+## 📁 Estructura del Proyecto
+
+```text
+mi_sistema_/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+├── drafts/
+│   ├── aqui_ta_la_baina.html
+│   └── Untitled-1.html
+├── index.html
+└── README.md
+```
+
 O simplemente utiliza la extensión **Live Server** en VS Code para una experiencia de desarrollo en tiempo real.
 
 ## 👨‍💻 Autor
